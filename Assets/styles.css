@@ -2,6 +2,12 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-
+/* Top Image Styling */
+#top-image img {
+    width: 100%;
+    max-width: 1980px;
+    height: 140px;
+    display: block;
+    margin: 0 auto;
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;700&display=swap');
